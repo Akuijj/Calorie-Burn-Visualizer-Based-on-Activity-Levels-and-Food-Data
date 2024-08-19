@@ -1,0 +1,48 @@
+Apple,52,0.3,0.2,14
+Banana,89,1.1,0.3,23
+Chicken Breast,165,31,3.6,0
+Broccoli,55,3.7,0.6,11
+Salmon,208,20,13,0
+Almonds,579,21,49,22
+Oatmeal,68,2.4,1.4,12
+Egg,155,13,11,1.1
+Milk,42,3.4,1,5
+Brown Rice,111,2.6,0.9,23
+Spinach,23,2.9,0.4,3.6
+Tomato,18,0.9,0.2,3.9
+Cheese,402,25,33,1.3
+Beef,250,26,15,0
+Yogurt,59,10,0.4,3.6
+Orange,47,0.9,0.1,12
+Avocado,160,2,15,9
+Carrot,41,0.9,0.2,10
+Peanut Butter,588,25,50,20
+Blueberries,57,0.7,0.3,14
+Strawberries,32,0.7,0.3,7.7
+Quinoa,120,4.1,1.9,21.3
+Sweet Potato,86,1.6,0.1,20
+Walnuts,654,15,65,14
+Lentils,116,9,0.4,20
+Grapes,69,0.7,0.2,18
+Pineapple,50,0.5,0.1,13
+Turkey Breast,135,30,1,0
+Tofu,76,8,4.8,1.9
+Mushrooms,22,3.1,0.3,3.3
+Peas,81,5.4,0.4,14
+Cauliflower,25,1.9,0.3,5
+Green Beans,31,1.8,0.1,7
+Chia Seeds,486,16,31,42
+Pomegranate,83,1.7,1.2,19
+Cucumber,16,0.7,0.1,3.6
+Zucchini,17,1.2,0.3,3.1
+Eggplant,25,1,0.2,6
+Garlic,149,6.4,0.5,33
+Bell Pepper,31,1,0.3,6
+Onion,40,1.1,0.1,9
+Shrimp,99,24,0.3,0.2
+Crab,83,18,1,0
+Tuna,132,28,1.3,0
+Lobster,89,19,0.9,0
+Pork,242,27,14,0
+Lamb,294,25,21,0
+Duck,337,19,28,0
