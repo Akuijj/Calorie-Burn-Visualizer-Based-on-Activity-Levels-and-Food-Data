@@ -24,3 +24,8 @@ Displays calorie burn across five activity levels: sedentary, lightly active, mo
 Bar graphs to visualize the calorie burn rate, scaled for each activity level.
 Realistic multipliers for activity levels to reflect more accurate burn rates.
 Food data file includes various food items with their nutritional values.
+
+## Note: 
+```
+The formulas and multipliers used in this program for calculating calorie burn rates are based on my personal estimates and may not be scientifically accurate. They are intended for illustrative purposes only and should not be taken as exact or medically approved values.
+```
