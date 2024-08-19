@@ -1,8 +1,14 @@
 # Calorie Burn Visualizer Based on Activity Levels and Food Data
-https://github.com/user-attachments/assets/0c5c2bbb-17ab-461c-a0ad-2616da975463
+
+# https://github.com/user-attachments/assets/0c5c2bbb-17ab-461c-a0ad-2616da975463
+____________________________________________________________________
+
 ![Screenshot from 2024-06-22 12-19-53](https://github.com/user-attachments/assets/d992214e-3403-4f1b-aa0c-76f4180fa1fd)
+____________________________________________________________________
+
 ![Screenshot from 2024-06-22 12-42-28](https://github.com/user-attachments/assets/eb5d52fb-d0bf-4865-8683-4b5cbfeb4877)
-https://github.com/user-attachments/assets/033ba790-20e9-4d3a-91a5-f9ce96901be8
+____________________________________________________________________
+# https://github.com/user-attachments/assets/033ba790-20e9-4d3a-91a5-f9ce96901be8
 
 ## Description:
 
